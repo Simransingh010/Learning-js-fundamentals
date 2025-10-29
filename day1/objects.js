@@ -37,5 +37,6 @@ console.log(" ");
 
 for (key in car) {
   console.log(key, car[key]);
-  
+
+  this.person();
 }
